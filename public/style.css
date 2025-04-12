@@ -1,0 +1,20 @@
+body{
+    padding:10px;
+}
+/* .what{
+    display: flex;
+    justify-content: space-between;
+} */
+.chat{
+    padding:10px;
+    border-radius: 20px;
+    background-color:lightblue;
+    display: inline-block;
+    
+}
+.message{
+    padding:7px;
+    background-color: lightseagreen;
+    border-radius: 5px 15px;
+    color: white;
+}
